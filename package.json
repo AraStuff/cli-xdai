@@ -1,0 +1,13 @@
+{
+  "name": "cli-xdai",
+  "version": "1.0.0-beta.1",
+  "description": "",
+  "devDependencies": {
+    "@aragon/cli": "7.0.3",
+    "@truffle/hdwallet-provider": "^1.0.41-1",
+    "cross-env": "^5.2.0",
+    "fs-extra": "^8.1.0",
+    "ganache-cli": "^6.9.1",
+    "truffle": "5.1.4"
+    }
+}
